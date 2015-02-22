@@ -1,4 +1,4 @@
-##  cachematrix is a function containing two independent functions 
+##  cachematrix is a program containing two independent functions 
 ##  that cache the inverse of a matrix.
 
 ##  makeCacheMatrix creates a object containing a special "matrix" 
